@@ -49,16 +49,20 @@ C# WinForms と SQLite を使用して作成した家計簿アプリです。
 
 収入・支出の合計とグラフを表示
 
+![ホーム画面](images/home.png)
+
 
 ### 収入管理
 
 収入データの登録・削除
 
+![収入一覧](images/income.png)
 
 ### 支出管理
 
 支出データの登録・削除
 
+![支出一覧](images/expense.png)
 　　
 ## 追加したかった機能
 
