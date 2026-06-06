@@ -56,13 +56,13 @@ C# WinForms と SQLite を使用して作成した家計簿アプリです。
 
 収入データの登録・削除
 
-
+![収入一覧](images/income.png)
 
 ### 支出管理
 
 支出データの登録・削除
 
-
+![支出一覧](images/expense.png)
 　　
 ## 追加したかった機能
 
