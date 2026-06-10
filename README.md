@@ -9,7 +9,10 @@ C# WinForms と SQLite を使用して作成した家計簿アプリです。
 
 ## ダウンロード
 
-最新版:
+最新版:https://github.com/YukiSakamoto0728/Kakeibo2App/releases/tag/v1.0.0
+
+※ Windows環境で動作確認済み
+
 ## 動作環境
 
 ### Windows 10 / 11
